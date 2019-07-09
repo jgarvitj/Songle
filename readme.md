@@ -1,7 +1,7 @@
 Author: 
-        Agam Sachan     2016A2PS0484H
-        Abhishek Pandey 2016A7PS0081H
-        Garvit Jain     2016A7PS0080H
+        Agam Sachan     
+        Abhishek Pandey 
+        Garvit Jain     
 
 Programming Language:python3
 
